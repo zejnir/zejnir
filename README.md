@@ -23,7 +23,6 @@
 ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-Next.js-05122A?style=flat-square&logo=Next.js&color=353535) ![Bootstrap](https://img.shields.io/badge/-Flutter-05122A?style=flat-square&logo=Flutter&color=353535) ![Bootstrap](https://img.shields.io/badge/-Dart-05122A?style=flat-square&logo=Dart&color=353535) ![Bootstrap](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Github-05122A?style=flat-square&logo=Github&color=353535) ![Bootstrap](https://img.shields.io/badge/-CI/CD-05122A?style=flat-square&logo=CI/CD&color=353535)
 
 <div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zejnir&show_icons=true&locale=en&layout=compact" alt="zejnir" />
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=zejnir&" alt="zejnir" />
 </div>
 
